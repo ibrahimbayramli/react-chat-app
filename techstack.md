@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ibrahimbayramli/react-chat-app is built on the following main stack:
+
 - [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - [Chartio](https://chartio.com) – Business Intelligence
 - [Code Climate](https://codeclimate.com/) – Code Review
@@ -38,11 +39,13 @@ ibrahimbayramli/react-chat-app is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ibrahimbayramli/react-chat-app is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/5/default_aa447805966bbb635af0d113e93e1f1030497052.jpg' alt='Segment'/> [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
 - <img width='25' height='25' src='https://img.stackshare.io/service/305/KFgYaUkK.png' alt='Code Climate'/> [Code Climate](https://codeclimate.com/) – Code Review
@@ -79,14 +82,15 @@ ibrahimbayramli/react-chat-app is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ibrahimbayramli/react-chat-app](https://github.com/ibrahimbayramli/react-chat-app)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|203<br/>Tools used|11/09/23 <br/>Report generated|
+|206<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -461,9 +465,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (161)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (164)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (161)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (164)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -550,6 +554,7 @@ Full tech stack [here](/techstack.md)
 |[helmet](https://www.npmjs.com/helmet)|v6.0.1|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[hiredis](https://www.npmjs.com/hiredis)|v0.5.0|03/25/23|İbrahim BAYRAMLI |BSD-3-Clause|N/A|
 |[http-errors](https://www.npmjs.com/http-errors)|v2.0.0|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v0.14.3|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[iconv](https://www.npmjs.com/iconv)|N/A|03/25/23|İbrahim BAYRAMLI |ISC|N/A|
 |[iconv-lite](https://www.npmjs.com/iconv-lite)|v0.4.24|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[in-publish](https://www.npmjs.com/in-publish)|v2.0.1|03/25/23|İbrahim BAYRAMLI |ISC|N/A|
@@ -565,7 +570,8 @@ Full tech stack [here](/techstack.md)
 |[karma-mocha](https://www.npmjs.com/karma-mocha)|v1.3.0|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[karma-phantomjs-launcher](https://www.npmjs.com/karma-phantomjs-launcher)|v1.0.2|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[karma-sinon](https://www.npmjs.com/karma-sinon)|v1.0.5|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v0.7.0|03/25/23|İbrahim BAYRAMLI |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v5.0.0|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
+|[marked](https://www.npmjs.com/marked)|v0.7.0|03/25/23|İbrahim BAYRAMLI |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)|
 |[matcha](https://www.npmjs.com/matcha)|v0.7.0|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[merge-descriptors](https://www.npmjs.com/merge-descriptors)|v1.0.1|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[method-override](https://www.npmjs.com/method-override)|v3.0.0|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
@@ -603,6 +609,7 @@ Full tech stack [here](/techstack.md)
 |[safe-buffer](https://www.npmjs.com/safe-buffer)|v5.2.1|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v1.1.4|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[seedrandom](https://www.npmjs.com/seedrandom)|v2.4.3|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v18.0.0|03/25/23|İbrahim BAYRAMLI |MIT|[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
 |[send](https://www.npmjs.com/send)|v0.18.0|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[serve-static](https://www.npmjs.com/serve-static)|v1.15.0|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[shortid](https://www.npmjs.com/shortid)|v2.2.16|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
@@ -632,4 +639,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
