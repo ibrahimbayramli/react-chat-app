@@ -3,40 +3,40 @@
 ## Tech Stack
 ibrahimbayramli/react-chat-app is built on the following main stack:
 
-- [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
-- [Chartio](https://chartio.com) – Business Intelligence
-- [Code Climate](https://codeclimate.com/) – Code Review
-- [Coveralls](https://coveralls.io/) – Code Coverage
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [Browserify](http://browserify.org/) – Front End Package Manager
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [Redis](http://redis.io/) – In-Memory Databases
 - [Socket.IO](http://socket.io/) – Realtime Backend / API
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [ngrok](https://ngrok.com/) – localhost Tools
-- [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
-- [Karma](http://karma-runner.github.io/) – Browser Testing
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [PhantomJS](https://phantomjs.org/) – Headless Browsers
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [ws](https://github.com/websockets/ws) – Realtime Backend / API
 - [Babel](http://babeljs.io/) – JavaScript Compilers
-- [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
+- [Browserify](http://browserify.org/) – Front End Package Manager
+- [Chai](http://chaijs.com/) – Javascript Testing Framework
+- [Code Climate](https://codeclimate.com/) – Code Review
+- [Coveralls](https://coveralls.io/) – Code Coverage
 - [ESLint](http://eslint.org/) – Code Review
+- [InSpec](https://www.inspec.io/) – Testing Frameworks
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- [Karma](http://karma-runner.github.io/) – Browser Testing
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [PhantomJS](https://phantomjs.org/) – Headless Browsers
+- [Prettier](https://prettier.io/) – Code Review
 - [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
 - [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
-- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [nodemon](http://nodemon.io/) – node.js Application Monitoring
-- [InSpec](https://www.inspec.io/) – Testing Frameworks
-- [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
-- [Prettier](https://prettier.io/) – Code Review
-- [ws](https://github.com/websockets/ws) – Realtime Backend / API
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
+- [ngrok](https://ngrok.com/) – localhost Tools
+- [nodemon](http://nodemon.io/) – node.js Application Monitoring
+- [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
+- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- [Chartio](https://chartio.com) – Business Intelligence
+- [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -46,40 +46,40 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ibrahimbayramli/react-chat-app is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/5/default_aa447805966bbb635af0d113e93e1f1030497052.jpg' alt='Segment'/> [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
-- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
-- <img width='25' height='25' src='https://img.stackshare.io/service/305/KFgYaUkK.png' alt='Code Climate'/> [Code Climate](https://codeclimate.com/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' alt='Socket.IO'/> [Socket.IO](http://socket.io/) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1309/default_64cb55c1a8367f51e710697a54340fc497cfe6a1.png' alt='ngrok'/> [ngrok](https://ngrok.com/) – localhost Tools
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='pre-commit'/> [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1832/phantomjs.png' alt='PhantomJS'/> [PhantomJS](https://phantomjs.org/) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2932/zuul.png' alt='Zuul'/> [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/305/KFgYaUkK.png' alt='Code Climate'/> [Code Climate](https://codeclimate.com/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/6202/inspec-1.jpg' alt='InSpec'/> [InSpec](https://www.inspec.io/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1832/phantomjs.png' alt='PhantomJS'/> [PhantomJS](https://phantomjs.org/) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='SuperTest'/> [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/5577/preview.png' alt='nodemon'/> [nodemon](http://nodemon.io/) – node.js Application Monitoring
-- <img width='25' height='25' src='https://img.stackshare.io/service/6202/inspec-1.jpg' alt='InSpec'/> [InSpec](https://www.inspec.io/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/2932/zuul.png' alt='Zuul'/> [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1309/default_64cb55c1a8367f51e710697a54340fc497cfe6a1.png' alt='ngrok'/> [ngrok](https://ngrok.com/) – localhost Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/5577/preview.png' alt='nodemon'/> [nodemon](http://nodemon.io/) – node.js Application Monitoring
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='pre-commit'/> [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
+- <img width='25' height='25' src='https://img.stackshare.io/service/5/default_aa447805966bbb635af0d113e93e1f1030497052.jpg' alt='Segment'/> [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -90,7 +90,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ibrahimbayramli/react-chat-app](https://github.com/ibrahimbayramli/react-chat-app)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|206<br/>Tools used|01/05/24 <br/>Report generated|
+|206<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
